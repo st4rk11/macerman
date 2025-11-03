@@ -1,4 +1,4 @@
-👋 Hi, I’m Melike ACERMAN,
+👋 Hi, I’m Tony STARK,
 
 I like to turn my ideas to codes
 
@@ -14,6 +14,6 @@ I learned Python, Open-CV Computer Vision, HTML 5, CSS 3 and Javascript
 
 Working on C and C++ now
 
-Instagram: melikeacrmn
+Instagram: 
 
-Contact: acermanmelike@gmail.com
+Contact: @gmail.com
